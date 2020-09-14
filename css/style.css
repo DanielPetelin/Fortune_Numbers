@@ -1,3 +1,13 @@
+body {
+      background-image: url(../img/BG.jpg);
+      background-repeat: no-repeat;
+      background-size: 100%;
+
+      -moz-background-size: 100%;
+      -webkit-backdrop-size: 100%;
+      -o-background-size: 100%;
+}
+
 .score {
       font-size: 100px;
       /* font-family: 'Bebas Neue', cursive; */
